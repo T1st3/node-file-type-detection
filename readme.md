@@ -14,7 +14,8 @@ Modules named `*-extensions` are conventional lists of extensions for a category
 - [Image](#image)
 - [Font](#font)
 - [Audio](#audio)
-- [Videos](#video)
+- [Video](#video)
+- [Other](#other)
 
 
 ## Generic
@@ -31,7 +32,7 @@ One detector to rule them all: this module detects many formats, using Buffer/Ui
 
 ### Detectors
 
-- [is-7z](https://github.com/T1st3/is-7z)
+- [is-7z](https://github.com/t1st3/is-7z)
 - [is-bzip2](https://github.com/kevva/is-bzip2)
 - [is-gzip](https://github.com/kevva/is-gzip)
 - [is-rar](https://github.com/kevva/is-rar)
@@ -101,8 +102,22 @@ One detector to rule them all: this module detects many formats, using Buffer/Ui
 - [is-webm](https://github.com/t1st3/is-webm)
 
 
+## Other
+
+### Detectors
+
+- [is-epub](https://github.com/sindresorhus/is-epub)
+- [is-exe](https://github.com/kevva/is-exe)
+- [is-postscript](https://github.com/arthurvr/is-postscript)
+- [is-pdf](https://github.com/kevva/is-pdf)
+- [is-rpm](https://github.com/t1st3/is-rpm)
+- [is-sqlite](https://github.com/1000ch/is-sqlite)
+- [is-swf](https://github.com/kevva/is-swf)
+- [is-torrent](https://github.com/hemanth/is-torrent)
+
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [T1st3](http://www.tiste.org) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [t1st3](http://www.tiste.org) has waived all copyright and related or neighboring rights to this work.
