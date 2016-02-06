@@ -83,6 +83,7 @@ One detector to rule them all: this module detects many formats, using Buffer/Ui
 - [is-m4a](https://github.com/hemanth/is-m4a)
 - [is-mp3](https://github.com/hemanth/is-mp3)
 - [is-ogg](https://github.com/hemanth/is-ogg)
+- [is-opus](https://github.com/t1st3/is-opus)
 - [is-wav](https://github.com/hemanth/is-wav)
 
 
