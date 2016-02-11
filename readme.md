@@ -32,7 +32,7 @@ One detector to rule them all: this module detects many formats, using Buffer/Ui
 
 ### Detectors
 
-- [is-7z](https://github.com/t1st3/is-7z)
+- [is-7z](https://github.com/t1st3/is-7z) (which is a duplicate of [is-7zip](https://github.com/kevva/is-7zip))
 - [is-bzip2](https://github.com/kevva/is-bzip2)
 - [is-gzip](https://github.com/kevva/is-gzip)
 - [is-rar](https://github.com/kevva/is-rar)
